@@ -22,4 +22,5 @@ blah blah blah
 
 
 <img class="ui image" src="{{ site.baseurl }}/images/TomatoSchematic.PNG">
+Source: <a href="https://github.com/victoria-soto/tomatoApp"><i class="large github icon"></i>tomatoApp</a>
 
