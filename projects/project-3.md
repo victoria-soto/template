@@ -16,7 +16,7 @@ labels:
 summary: I designed the hardware and software for growing a tomato plant. The user will be notified via an android application when the sensors detect whether the plant needs water or light.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/AppPic.png">
+<img class="ui center medium image" src="{{ site.baseurl }}/images/AppPic.png">
 
 blah blah blah
 
