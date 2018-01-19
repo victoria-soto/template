@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/project2Image.png
 title: Bank Database Application in C and C++
-permalink: projects/bankdatabase1
+permalink: projects/bankdatabase
 # All dates must be YYYY-MM-DD format!
 date: 2017-08-05
 labels:
