@@ -5,7 +5,7 @@ image: images/securityIcon.jpg
 title: Dormitory Security System
 permalink: projects/dormsecurity
 # All dates must be YYYY-MM-DD format!
-date: 2017-08-present
+date: 2017-08
 labels:
   - Arduino
   - Hardware
