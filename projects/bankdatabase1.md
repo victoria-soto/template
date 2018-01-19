@@ -5,7 +5,7 @@ image: images/project1Image.jpg
 title: Bank Database Application in C
 permalink: projects/bankdatabase1
 # All dates must be YYYY-MM-DD format!
-date: 2017-06-2017-07
+date: 2017-08-05
 labels:
   - C
   - bank database
