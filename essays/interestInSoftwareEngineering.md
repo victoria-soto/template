@@ -9,11 +9,5 @@ labels:
   - Learning
 ---
 
-# <img class="ui tiny left circular floated image" src="../images/paintbrushes.jpg">
-
-# <img class="ui tiny left circular floated image" src="../images/design-technology.jpg">
-
-
-# <img class="ui tiny left circular floated image" src="../images/software-code.jpg">
 
 
