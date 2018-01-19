@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/project2Image.jpg
+image: images/project2Image.png
 title: Bank Database Application in C and C++
 permalink: projects/bankdatabase1
 # All dates must be YYYY-MM-DD format!
