@@ -5,7 +5,7 @@ image: images/project2Image.png
 title: Bank Database Application in C and C++
 permalink: projects/bankdatabase
 # All dates must be YYYY-MM-DD format!
-date: 2017-05
+date: 2017-05-22
 labels:
   - C
   - C++
