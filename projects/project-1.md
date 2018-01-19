@@ -14,7 +14,7 @@ labels:
 summary: The Bank Database Application was a semester long project where accounts were added, deleted, and modified using linked lists in C and C++.
 ---
 
-<img class="ui image" src="../images/bankIntro.jpg">
+<img class="medium" src="../images/bankIntro.jpg">
 
 For the ICS 212 Programming Structure course at UH Manoa, I developed a bank database application in C during the first half of the class.
 
