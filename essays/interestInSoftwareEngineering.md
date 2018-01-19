@@ -14,7 +14,7 @@ I originally started off majoring in bioengineering with the intent of applying 
 
 I get bored pretty easily and when I’m good at something, I get bored. However, when I struggle with a task I get frustrated and it makes me want to work on it even more until I can figure it out!</p>
 
-<img class="ui centered medium image" src="../images/essay1Pic.jpg">
+<img class="ui centered medium image" src="../images/essay1aPic.jpg">
 
 <p>Coding was something I can truthfully say didn’t come easy for me. Still, I always thought it was cool how programs can develop into complicated video games or maybe be written to simply make an LED blink. Even though electrical and software engineering freaked me out, I wanted to give it a shot and decided to take digital logic as an elective. After making it through that course my mind was set.
 
