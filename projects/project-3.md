@@ -18,8 +18,7 @@ summary: I designed the hardware and software for growing a tomato plant. The us
 
 <img class="ui medium left image" src="{{ site.baseurl }}/images/AppPic.png">
 
-blah blah blah
-
+This project modeled the Tamagotchi digital pet where users could interact and care for their own virtual pet. An Arduino Uno equipped with a photoresistor, temperature sensor, piezoelectric buzzer, and HC-06 Bluetooth module to monitor the status of a tomato plant. If the temperature or light exposure did not meet the plant’s needs, a piezoelectric buzzer would beep, a red LED would continuously blink, and an android application would voice the plants needs to the user. This project is still a work in progress, however, I’ve included the hardware schematic, parts of the android application and Arduino source codes in the link below.
 
 <img class="ui medium centered image" src="{{ site.baseurl }}/images/TomatoSchematic.PNG">
 Source: <a href="https://github.com/victoria-soto/tomatoApp"><i class="large github icon"></i>tomatoApp</a>
