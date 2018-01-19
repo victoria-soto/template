@@ -19,7 +19,7 @@ The Dormitory Security System was a semester long project which was intended to 
 
 For this project I designed and developed the hardware and software. From this experience I strengthened my hardware, software, and troubleshooting skills. This project is still a work in progress as I intend on adding a camera with live video feed and a raspberry pi with WiFi access so that the user can view their room.
 
-<img class="ui rounded image" src="../images/securityAppLarge.jpg">
+<img class="ui large rounded image" src="../images/securityAppLarge.jpg">
 
  
 Source: <a href="https://github.com/victoria-soto/dormSecurity"><i class="large github icon"></i>dormSecurity</a>
