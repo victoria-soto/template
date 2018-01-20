@@ -1,4 +1,15 @@
-Ahhhhh! I saw a bug…or two
+---
+layout: essay
+type: essay
+title: Ahhhhh! I saw a bug…or two
+# All dates must be YYYY-MM-DD format!
+date: 2018-01-19
+labels:
+  - Software Engineering
+  - Learning
+  - Reflection
+---
+
 
 Sooooo…check out what I found in my house for two days in a row! Like oh my gosh, why?! Scary! Get outta my house! OUT! 
 
