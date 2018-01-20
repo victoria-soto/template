@@ -2,6 +2,7 @@
 layout: essay
 type: essay
 title: Ahhhhh! I saw a bug…or two
+published: true
 # All dates must be YYYY-MM-DD format!
 date: 2018-01-19
 labels:
