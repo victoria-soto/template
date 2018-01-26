@@ -18,9 +18,11 @@ We’ve heard it in nearly all of our classes: “there’s no such thing as a s
 
 
 But come on. 
-You don’t actually that, do you? I mean, I remember back in elementary school (and even in college sadly) hearing that whinnying student ask, “what’s the point of learning…” insert difficult topic here. Or even worse. Ask questions they could have found answers to in an assignment, course lectures, or even Google, gasp! 
+You don’t actually that, do you?
 
-<img class="ui large centered image" src="../images/patQbE3.png">
+I mean, I remember back in elementary school (and even in college sadly) hearing that whinnying student ask, “what’s the point of learning…” insert difficult topic here. Or even worse. Ask questions they could have found answers to in an assignment, course lectures, or even Google, gasp! 
+
+<img class="ui large centered image" src="../images/patQb2E3.png">
 
 As software engineers, we’re sort of forced to desperately resort to looking through textbooks and sadly revisiting the same top ten google searched sites for the umpteenth time in an effort to debug our nonfunctioning codes. It’s enough to make any student go crazy!!!
 
