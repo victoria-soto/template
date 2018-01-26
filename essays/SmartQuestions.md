@@ -32,7 +32,7 @@ I mean, if you don't become a "Google expert" during your college years as a sof
 
 For example, take a look at this question: [Cringe!](https://stackoverflow.com/questions/36532518/how-to-make-an-android-app-with-photoshop)
 
-Yeah, I mean really?! This information could have totally been obtained through a 10 second Google search! Poor fella! He just doesn't know any better. Meanwhile compare the above question to this one: [Wow!](https://stackoverflow.com/questions/11227809/why-is-it-faster-to-process-a-sorted-array-than-an-unsorted-array).
+Yeah, I mean really?! This information could have totally been obtained through a 10 second Google search! Poor fella! He just doesn't know any better. Meanwhile compare the above question to this one: [Wow!](https://stackoverflow.com/questions/11227809/why-is-it-faster-to-process-a-sorted-array-than-an-unsorted-array)
 
 You can definitely see the contrast in the positive versus negative responses from the software engineering community from both questions. The first, provoked a lot of downvotes as it was not a "smart" question. While the other, was something that got developers "excited" to answer the question. 
 
