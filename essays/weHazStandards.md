@@ -46,7 +46,7 @@ It wasn’t a typo! The answer was that the program would go on forever since th
 Looked at another person’s code and think. Ummm wow. Why? As in, it’s so disorganized. So bad. That you have no idea where to even begin debugging? 
 
 
-<img class="ui small centered image" src="../images/code_quality.png">
+<img class="ui large centered image" src="../images/code_quality.png">
 
 
 A wise professor once said that the BEST codes are the ones that are the most easiest to read. Who cares if you can solve an algorithm in 10 lines. Whoopdee-doo! If its wrong and unreadable its going to be very difficult to get another colleague to debug it. This is why coding standards are so important! I used to think that it was so unfair getting docked 30% on a coding assignment for formatting issues. However, after working with other people and debugging their code you become THANKFUL they’re in place. Coding standards keeps everyone consistent—on the same page! From the neatest of the neat freaks to the messiest of slobs coding standards (in a cheesy way) is what brings us software engineers together. Group hug!!!!
