@@ -17,9 +17,13 @@ There are different types of frameworks you can choose from when building a webs
 <img class="ui large left floated rounded image" src="../images/caveman-too-busy.jpg">
 
 ## Yikes!
-That means
+Yikes! That statement alone is enough to send any beginning software engineer (such as myself) into hysterics! Especially after discovering it is required that we also be acquainted to Bootstrap!!! After some further investigation I noticed some interesting contrasts between the two frameworks:
 
 
+<div class="ui small images">
+  <img src="/images/SemanticUI.PNG">
+  <img src="/images/BootStrap.PNG">
+  </div>
 
 
 ## NEXT1
