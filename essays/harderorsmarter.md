@@ -31,11 +31,11 @@ Let's examine the following frameworks: Semantic-UI, Bootstrap, and UIkit--take 
 
 ### Bootstrap  
 
-<img class="ui medium right floated rounded image" max-height="200" max-width="200" src="/images/BootStrap.PNG"><a href="https://themes.getbootstrap.com/">Bootstrap</a><br/><br/><br/><br/>
+<img class="ui medium right floated rounded image" max-height="300" max-width="350" src="/images/BootStrap.PNG"><a href="https://themes.getbootstrap.com/">Bootstrap</a><br/><br/><br/><br/>
 
 ### UIkit  
 
-<img class="ui large left floated rounded image" max-height="100" max-width="100" src="/images/UIkit.PNG"><a href="https://getuikit.com/">UIkit</a><br/><br/><br/><br/>
+<img class="ui large left floated rounded image" max-height="300" max-width="350" src="/images/UIkit.PNG"><a href="https://getuikit.com/">UIkit</a><br/><br/><br/><br/>
 
 ## I Choose you! Semantic-UI!  
 As a beginner software engineer I found Semantic-UI to be very user friendly—it made jumping into website development less *scary*.
