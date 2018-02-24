@@ -20,21 +20,22 @@ There are different types of frameworks you can choose from when building a webs
 
 So which is it? Would you rather construct websites the easy way? Or the *hard* way?  
 
-<img class="ui centered fluid image" max-height="300" max-width="350" src="../images/caveman-too-busy.jpg">
+<img class="ui centered image" max-height="300" max-width="350" src="../images/caveman-too-busy.jpg">
 
 ## Pick Your Poision!  
 Let's examine the following frameworks: Semantic-UI, Bootstrap, and UIkit--take a look at example code and websites these frameworks can develop from <a href="https://dashbouquet.com/blog/web-development/top-5-most-popular-css-frameworks-that-you-should-pay-attention-to-in-2017#contacts">dashBoquet</a> who reviewed the top five CSS frameworks of 2017.
 
-### Semantic-UI
+### Semantic-UI  
 <img class="ui medium right floated rounded image" max-height="200" max-width="200" src="/images/SemanticUI.PNG">  
 
 
-### Bootstrap
+### Bootstrap  
 <img class="ui medium left floated rounded image" max-height="100" max-width="100" src="/images/BootStrap.PNG">  
 
 
-### UIkit
-<img class="ui medium right floated image" max-height="100" max-width="100" src="/images/UIkit.PNG">   
+### UIkit  
+<img class="ui medium right floated image" max-height="100" max-width="100" src="/images/UIkit.PNG">  
+
 ## I Choose you! Semantic-UI!  
 As a beginner software engineer I found Semantic-UI to be very user friendly—it made jumping into website development less *scary*.
 
