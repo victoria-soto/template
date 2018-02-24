@@ -16,7 +16,7 @@ There are different types of frameworks you can choose from when building a webs
 
 <blockquote class="blockquote">
 <p>In English, it’s much easier to say ‘There are three tall men’ than ‘There is a tall man, a tall man, and a tall man’. This means that in Bootstrap, to achieve a thing (say a navbar), we need to have 2-3 nested classes of “navbar”, ”navbar-default”, etc. whereas with Semantic UI, it can be done with single one.</p>
-  <footer class="blockquote-footer">Source: <a href="http://opntec.org/category/fossasia/page/26/"></i>Choosing Semantic UI over Bootstrap for the Open Even Front-end</a></blockquote></footer></blockquote>
+  <p align=right><footer class="blockquote-footer">Source: <a href="http://opntec.org/choosing-semantic-ui-over-bootstrap-for-the-open-event-front-end/"></i>Choosing Semantic UI over Bootstrap for the Open Even Front-end</a></blockquote></footer></blockquote></p>
 
 <img class="ui large left floated rounded image" height="300" width="350" src="../images/caveman-too-busy.jpg">
 
