@@ -12,10 +12,10 @@ background: linear-gradient(to right, #E684AE, #79CBCA, #77A1D3); /* W3C, IE 10+
 
 // Customize the menubar color
 .ui.menu {
-  background: #79CBCA;
+background: linear-gradient(to right, #E684AE, #79CBCA, #77A1D3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
 // Customize the home page icon colors
 .icon-color {
-  color: darken(#E684AE, 50%);
+  color: darken(#E684AE, 20%);
 }
