@@ -39,6 +39,8 @@ Let's examine the following frameworks: Semantic-UI, Bootstrap, and UIkit--take 
 
 ## I Choose you! Semantic-UI!  
 As a beginner software engineer I found Semantic-UI to be very user friendly—it made jumping into website development a little less *scary*--just a little!!! Their website is also fairly easy to navigate as their documentation is well organized with clear visuals that accompany their code. Semantic-UI was clearly designed with the beginer software engineer in mind.
+<img class="ui centered image" src="/images/SemanticExample.PNG"style="max-width: 275px;" style="max-height: 370px;"/>
+With clear and easy to follow examples such as the one above, I was able to experiment with different website styles and formats. It was a fun UI framework to work with that I'll be able to use the techniques I learned and apply them to the next UI framework I'll be learning: <a href="https://reactjs.org/">React</a>! 
 
 
 
