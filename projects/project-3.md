@@ -15,10 +15,10 @@ labels:
   - Photoresistor
 summary: I designed the hardware and software for growing a tomato plant. The user will be notified via an Android application when the sensors detect whether the plant needs water or light.
 ---
-<img class="ui left floated image" src="/images/AppPic.png" style="max-width: 200px;" style="max-height: 200px;"/>
+<img class="ui left floated image" src="/images/AppPic.png" style="max-width: 200px;" style="max-height: 300px;"/>
 
 This project modeled the Tamagotchi digital pet where users could interact and care for their own virtual pet. An Arduino Uno equipped with a photoresistor, temperature sensor, piezoelectric buzzer, and HC-06 Bluetooth module to monitor the status of a tomato plant. If the temperature or light exposure did not meet the plant’s needs, a piezoelectric buzzer would beep, a red LED would continuously blink, and an android application would voice the plants needs to the user. This project is still a work in progress, however, I’ve included the hardware schematic, parts of the android application and Arduino source codes in the link below.
 
-<img class="ui centered image" src="/images/TomatoSchematic.PNG" style="max-width: 200px;" style="max-height: 350px;"/>
+<img class="ui centered image" src="/images/TomatoSchematic.PNG" style="max-width: 200px;" style="max-height: 300px;"/>
 Source: <a href="https://github.com/victoria-soto/tomatoApp"><i class="large github icon"></i>tomatoApp</a>
 
