@@ -24,9 +24,9 @@ So which is it? Would you rather construct websites the easy way? Or the *hard* 
 ## I Choose you! Semantic-UI!
 As a beginner software engineer I found Semantic-UI to be very user friendly—it made jumping into website development less *scary*. For example, take a look at images from <a href="https://dashbouquet.com/blog/web-development/top-5-most-popular-css-frameworks-that-you-should-pay-attention-to-in-2017#contacts">dashBoquet</a> that compare the websites you can develop using Semantic-UI, Bootstrap, and UIkit frameworks:
 
-<img class="ui top aligned small image" max-height="100" max-width="100" src="/images/SemanticUI.PNG">
-<img class="ui middle aligned small image" max-height="100" max-width="100" src="/images/BootStrap.PNG"> 
-<img class="ui bottom aligned small image" max-height="100" max-width="100" src="/images/UIkit.PNG">
+<img class="ui top aligned medium image" max-height="100" max-width="100" src="/images/SemanticUI.PNG">
+<img class="ui middle aligned medium image" max-height="100" max-width="100" src="/images/BootStrap.PNG"> 
+<img class="ui bottom aligned medium image" max-height="100" max-width="100" src="/images/UIkit.PNG">
 
 
 
