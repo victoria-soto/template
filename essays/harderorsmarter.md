@@ -16,9 +16,8 @@ labels:
 There are different types of frameworks you can choose from when building a website: Bootstrap, Semantic-UI and UIkit--just to name a few. But which is right for you? To be fair, I’ve only had experience with Semantic-UI; however, upon some initial research, I stumbled across a quote from an <a href="http://opntec.org/choosing-semantic-ui-over-bootstrap-for-the-open-event-front-end/">article </a> comparing Semantic-UI and Bootstrap: 
 
 >In English, it’s much easier to say "There are three tall men" than "There is a tall man, a tall man, and a tall man". This means that in Bootstrap, to achieve a thing (say a navbar), we need to have 2-3 nested classes of “navbar”, ”navbar-default”, etc. whereas with Semantic UI, it can be done with single one.  
-<div style="text-align:right">-Open Tech</div>  
-  
-    
+<div style="text-align:right">-Open Tech</div><br/><br/><br/><br/>
+
 So which is it? Would you rather construct websites the easy way? Or the *hard* way?  
 
 <img class="ui centered image" max-height="300" max-width="350" src="../images/caveman-too-busy.jpg">
@@ -28,20 +27,15 @@ Let's examine the following frameworks: Semantic-UI, Bootstrap, and UIkit--take 
 
 ### Semantic-UI  
 
-<img class="ui large left floated rounded image" max-height="200" max-width="200" src="/images/SemanticUI.PNG"><a href="https://semantic-ui.com/">Semantic-UI</a> allows you to create user (and developer) friendly websites quickly and easily--that is once you get over the initial syntax hurdle of course! It is also a free open source project with over 40,000 stars (users who follow their projects/repos) on <a href="http://opntec.org/choosing-semantic-ui-over-bootstrap-for-the-open-event-front-end/">GitHub</a>.<br/><br/><br/><br/><br/><br/>
+<img class="ui large left floated rounded image" max-height="200" max-width="200" src="/images/SemanticUI.PNG"><a href="https://semantic-ui.com/">Semantic-UI</a> allows you to create user (and developer) friendly websites quickly and easily--that is once you get over the initial syntax hurdle of course! It is also a free open source project with over 40,000 stars (users who follow their projects/repos) on <a href="http://opntec.org/choosing-semantic-ui-over-bootstrap-for-the-open-event-front-end/">GitHub</a>.<br/><br/><br/><br/>
+
 ### Bootstrap  
 
-<img class="ui large right floated rounded image" max-height="100" max-width="100" src="/images/BootStrap.PNG"><a href="https://themes.getbootstrap.com/">Bootstrap</a>
-
-
-
-
+<img class="ui large right floated rounded image" max-height="100" max-width="100" src="/images/BootStrap.PNG"><a href="https://themes.getbootstrap.com/">Bootstrap</a><br/><br/><br/><br/>
 
 ### UIkit  
 
-<img class="ui large left floated rounded image" max-height="100" max-width="100" src="/images/UIkit.PNG"><a href="https://getuikit.com/">UIkit</a>
-kdjfwioaejfawiedfjmskldjfwioejflksdjfwio
-
+<img class="ui large left floated rounded image" max-height="100" max-width="100" src="/images/UIkit.PNG"><a href="https://getuikit.com/">UIkit</a><br/><br/><br/><br/>
 
 ## I Choose you! Semantic-UI!  
 As a beginner software engineer I found Semantic-UI to be very user friendly—it made jumping into website development less *scary*.
