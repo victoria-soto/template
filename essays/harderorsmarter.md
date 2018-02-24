@@ -5,10 +5,11 @@ title: Ya Want It The Easy Way or the Hard Way?
 # All dates must be YYYY-MM-DD format!
 date: 2018-02-22
 labels:
-  - Software Engineering
-  - IntelliJ
-  - Semantic UI
   - UI Frameworks
+  - Semantic UI
+  - Bootstrap
+  - UIkit
+  - Software Engineering
 
 ---
 ## Which to Choose?
