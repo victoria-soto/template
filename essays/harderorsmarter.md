@@ -26,14 +26,15 @@ So which is it? Would you rather construct websites the easy way? Or the *hard* 
 ## Pick Your Poision!  
 Let's examine the following frameworks: Semantic-UI, Bootstrap, and UIkit--take a look at example code and websites these frameworks can develop from <a href="https://dashbouquet.com/blog/web-development/top-5-most-popular-css-frameworks-that-you-should-pay-attention-to-in-2017#contacts">dashBoquet</a> who reviewed the top five CSS frameworks of 2017.
 
+
 ### Semantic-UI  
 kdjfioawjeifjaiowefjioawjfiajeoifjioawejfkdjfkasdjfwioejifajid
-<img class="ui large right floated rounded image" max-height="200" max-width="200" src="/images/SemanticUI.PNG">  
+<img class="ui large right floated rounded image" max-height="200" max-width="200" src="/images/SemanticUI.PNG">
 
 
 ### Bootstrap  
 kdjfwioaejfawiedfjmskldjfwioejflksdjfwio
-<img class="ui large left floated rounded image" max-height="100" max-width="100" src="/images/BootStrap.PNG">  
+<img class="ui large left floated rounded image" max-height="100" max-width="100" src="/images/BootStrap.PNG">
 
 
 ### UIkit  
