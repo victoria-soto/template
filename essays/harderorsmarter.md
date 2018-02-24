@@ -15,7 +15,7 @@ labels:
 There are different types of frameworks you can choose from when building a website: Bootstrap, Semantic-UI and UIkit--just to name a few. But which is right for you? To be fair, I’ve only had experience with Semantic-UI; however, upon some initial research, I stumbled across a quote from an <a href="http://opntec.org/choosing-semantic-ui-over-bootstrap-for-the-open-event-front-end/">article </a> comparing Semantic-UI and Bootstrap: 
 
 >In English, it’s much easier to say "There are three tall men" than "There is a tall man, a tall man, and a tall man". This means that in Bootstrap, to achieve a thing (say a navbar), we need to have 2-3 nested classes of “navbar”, ”navbar-default”, etc. whereas with Semantic UI, it can be done with single one.  
-<div style="text-align:right"><span**-Open Tech**</span></div>
+<div style="text-align:right"><span **-Open Tech**</span></div>
 
 So which is it? Would you rather construct websites the easy way? Or the *hard* way?  
 
