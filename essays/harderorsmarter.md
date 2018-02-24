@@ -22,8 +22,8 @@ So which is it? Would you rather construct websites the easy way? Or the *hard* 
 
 <img class="ui medium centered image" max-height="300" max-width="350" src="../images/caveman-too-busy.jpg">
 
-## Pick Your Poision!  
-Let's examine the following frameworks: Semantic-UI, Bootstrap, and UIkit--take a look at example code and websites these frameworks can develop from <a href="https://dashbouquet.com/blog/web-development/top-5-most-popular-css-frameworks-that-you-should-pay-attention-to-in-2017#contacts">dashBoquet</a> who reviewed the top five CSS frameworks of 2017.
+## Pick Your Poison!  
+Let's examine the following frameworks: Semantic-UI, Bootstrap, and UIkit--take a look at example code and websites these frameworks can develop courtesy of <a href="https://dashbouquet.com/blog/web-development/top-5-most-popular-css-frameworks-that-you-should-pay-attention-to-in-2017#contacts">dashBoquet</a> who reviewed the top five CSS frameworks of 2017.
 
 ### Semantic-UI  
 
@@ -31,7 +31,7 @@ Let's examine the following frameworks: Semantic-UI, Bootstrap, and UIkit--take 
 
 ### Bootstrap  
 
-<img class="ui large right floated rounded image" max-height="300" max-width="350" src="/images/BootStrap.PNG"><a href="https://themes.getbootstrap.com/">Bootstrap</a> is another UI framework that is very popular amoung software developers as they have over 122,000 stars in their <a href="https://github.com/twbs/bootstrap">GitHub</a>. They recently released the fourth version of their UI framework which included 10 different website themes. Bootstrap also allows developers to sell their own themes upon approval of their <a href="https://themes.zendesk.com/hc/en-us/articles/360000517772">seller's application</a>. <br/><br/><br/><br/>
+<img class="ui large right floated rounded image" max-height="300" max-width="350" src="/images/BootStrap.PNG"><a href="https://themes.getbootstrap.com/">Bootstrap</a> is another UI framework that is very popular among software developers as they have over 122,000 stars in their <a href="https://github.com/twbs/bootstrap">GitHub</a>. They recently released the fourth version of their UI framework which included 10 different website themes. Bootstrap also allows developers to sell their own themes upon approval of their <a href="https://themes.zendesk.com/hc/en-us/articles/360000517772">seller's application</a>. <br/><br/><br/><br/>
 
 ### UIkit  
 
@@ -39,6 +39,7 @@ Let's examine the following frameworks: Semantic-UI, Bootstrap, and UIkit--take 
 
 ## I Choose you! Semantic-UI!  
 As a beginner software engineer I found Semantic-UI to be very user friendly—it made jumping into website development less *scary*.
+
 
 
 
