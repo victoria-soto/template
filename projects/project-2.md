@@ -13,7 +13,7 @@ labels:
   - MIT App Inventor
 summary: I developed and designed the hardware and software for a dormitory security system that calls the user via Android application when motion is detected. 
 ---
-<img class="ui right bordered circular image" src="/images/securityAppLarge.jpg" style="max-width: 200px;" style="max-height: 400px;"/>
+<img class="ui right floated bordered image" src="/images/securityAppLarge.jpg" style="max-width: 200px;" style="max-height: 400px;"/>
 The Dormitory Security System was a semester long project which was intended to allow students to install their own inexpensive security system and protect their personal belongings. An HC-06 Bluetooth module and a PIR motion detection sensor was attached to an Arduino Uno that communicated with an android device when motion was detected to call and notify its owner. The android application was developed using MIT App Inventor.<br/> 
 
 For this project I designed and developed the hardware and software. From this experience I strengthened my hardware, software, and troubleshooting skills. This project is still a work in progress as I intend on adding a camera with live video feed and a Raspberry Pi with WiFi access so that the user can view their room. <br/>
