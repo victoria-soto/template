@@ -39,7 +39,7 @@ Let's examine the following frameworks: Semantic-UI, Bootstrap, and UIkit--take 
 
 ### UIkit  
 <p>kdjfwioaejfawiedfjmskldjfwioejflksdjfwio
-<img class="ui right floated image" max-height="100" max-width="100" src="/images/UIkit.PNG"></p>.  
+<img class="ui right floated image" max-height="100" max-width="100" src="/images/UIkit.PNG"></p></div>  
 
 
 ## I Choose you! Semantic-UI!  
