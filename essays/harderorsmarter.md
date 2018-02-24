@@ -20,22 +20,22 @@ There are different types of frameworks you can choose from when building a webs
 
 So which is it? Would you rather construct websites the easy way? Or the *hard* way?  
 
-<img class="ui centered image" src="/images/caveman-too-busy.jpg" style="max-width: 350px;" style="max-height: 400px;"/>
+<img class="ui centered image" src="/images/caveman-too-busy.jpg" style="max-width: 250px;" style="max-height: 300px;"/>
 
 ## Pick Your Poison!  
 Let's examine the following frameworks: Semantic-UI, Bootstrap, and UIkit--take a look at example code and websites these frameworks can develop courtesy of <a href="https://dashbouquet.com/blog/web-development/top-5-most-popular-css-frameworks-that-you-should-pay-attention-to-in-2017#contacts">dashBoquet</a> who reviewed the top five CSS frameworks of 2017.
 
 ### Semantic-UI  
 
-<img class="ui large left floated rounded image" max-height="200" max-width="200" src="/images/SemanticUI.PNG"><a href="https://semantic-ui.com/">Semantic-UI</a> allows you to create user (and developer) friendly websites quickly and easily--that is once you get over the initial syntax hurdle of course! It is also a free open source project with over 40,000 stars (users who follow their projects/repos) on <a href="http://opntec.org/choosing-semantic-ui-over-bootstrap-for-the-open-event-front-end/">GitHub</a>.<br/><br/><br/><br/>
+<img class="ui left floated rounded image" src="/images/SemanticUI.PNG" style="max-width: 250px;" style="max-height: 300px;"/><a href="https://semantic-ui.com/">Semantic-UI</a> allows you to create user (and developer) friendly websites quickly and easily--that is once you get over the initial syntax hurdle of course! It is also a free open source project with over 40,000 stars (users who follow their projects/repos) on <a href="http://opntec.org/choosing-semantic-ui-over-bootstrap-for-the-open-event-front-end/">GitHub</a>.<br/><br/><br/><br/>
 
 ### Bootstrap  
 
-<img class="ui large right floated rounded image" max-height="300" max-width="350" src="/images/BootStrap.PNG"><a href="https://themes.getbootstrap.com/">Bootstrap</a> is another UI framework that is very popular among software developers as they have over 122,000 stars in their <a href="https://github.com/twbs/bootstrap">GitHub</a>. They recently released the fourth version of their UI framework which included 10 different website themes. Bootstrap also allows developers to sell their own themes upon approval of their <a href="https://themes.zendesk.com/hc/en-us/articles/360000517772">seller's application</a>. <br/><br/><br/><br/>
+<img class="ui large right floated rounded image" src="/images/BootStrap.PNG"style="max-width: 250px;" style="max-height: 300px;"/><a href="https://themes.getbootstrap.com/">Bootstrap</a> is another UI framework that is very popular among software developers as they have over 122,000 stars in their <a href="https://github.com/twbs/bootstrap">GitHub</a>. They recently released the fourth version of their UI framework which included 10 different website themes. Bootstrap also allows developers to sell their own themes upon approval of their <a href="https://themes.zendesk.com/hc/en-us/articles/360000517772">seller's application</a>. <br/><br/><br/><br/>
 
 ### UIkit  
 
-<img class="ui large left floated rounded image" max-height="300" max-width="350" src="/images/UIkit.PNG"><a href="https://getuikit.com/">UIkit</a> is currently on the third installment of their front-end framework and is supported by any browser. <br/><br/><br/><br/>
+<img class="ui large left floated rounded image" src="/images/UIkit.PNG" style="max-width: 250px;" style="max-height: 300px;"/><a href="https://getuikit.com/">UIkit</a> is currently on the third installment of their front-end framework and is supported by any browser. <br/><br/><br/><br/>
 
 ## I Choose you! Semantic-UI!  
 As a beginner software engineer I found Semantic-UI to be very user friendly—it made jumping into website development less *scary*.
