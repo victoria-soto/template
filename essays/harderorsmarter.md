@@ -38,7 +38,7 @@ Let's examine the following frameworks: Semantic-UI, Bootstrap, and UIkit--take 
 <img class="ui left floated rounded image" src="/images/UIkit.PNG" style="max-width: 275px;" style="max-height: 370px;"/>Although <a href="https://getuikit.com/">UIkit</a> isn't as popular as Semantic-UI or Boostrap it is currently on its third installment of its front-end framework and is supported by any browser. UIkit boasts nearly 12,000 stargazers in their <a href="https://github.com/uikit/uikit">GitHub</a> and has plenty of documentation to help new users get started. <br/><br/><br/><br/><br/><br/><br/>
 
 ## I Choose you! Semantic-UI!  
-As a beginner software engineer I found Semantic-UI to be very user friendly—it made jumping into website development a little less *scary*. Their website is very easy to navigate as their documentation is very well organized with clear visuals to accompany their code. 
+As a beginner software engineer I found Semantic-UI to be very user friendly—it made jumping into website development a little less *scary*--just a little!!! Their website is also fairly easy to navigate as their documentation is well organized with clear visuals that accompany their code. 
 
 
 
