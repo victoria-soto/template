@@ -26,20 +26,20 @@ So which is it? Would you rather construct websites the easy way? Or the *hard* 
 ## Pick Your Poision!  
 Let's examine the following frameworks: Semantic-UI, Bootstrap, and UIkit--take a look at example code and websites these frameworks can develop from <a href="https://dashbouquet.com/blog/web-development/top-5-most-popular-css-frameworks-that-you-should-pay-attention-to-in-2017#contacts">dashBoquet</a> who reviewed the top five CSS frameworks of 2017.
 
-
+<div class="ui segment">
 ### Semantic-UI  
-<a href="https://semantic-ui.com/">Semantic-UI</a> allows you to create user (and developer) friendly websites quickly and easily--that is once you get over the initial syntax hurdle of course! It is also a free open source project with over 5000 commits on <a href="http://opntec.org/choosing-semantic-ui-over-bootstrap-for-the-open-event-front-end/">GitHub </a>. 
-<img class="ui right floated rounded image" max-height="200" max-width="200" src="/images/SemanticUI.PNG">
+<p><img class="ui right floated rounded image" max-height="200" max-width="200" src="/images/SemanticUI.PNG"><a href="https://semantic-ui.com/">Semantic-UI</a> allows you to create user (and developer) friendly websites quickly and easily--that is once you get over the initial syntax hurdle of course! It is also a free open source project with over 5000 commits on <a href="http://opntec.org/choosing-semantic-ui-over-bootstrap-for-the-open-event-front-end/">GitHub</a>.</p> 
+
 
 
 ### Bootstrap  
-kdjfwioaejfawiedfjmskldjfwioejflksdjfwio
-<img class="ui left floated rounded image" max-height="100" max-width="100" src="/images/BootStrap.PNG">
+<p>kdjfwioaejfawiedfjmskldjfwioejflksdjfwio
+<img class="ui left floated rounded image" max-height="100" max-width="100" src="/images/BootStrap.PNG"></p>.
 
 
 ### UIkit  
-kdjfwioaejfawiedfjmskldjfwioejflksdjfwio
-<img class="ui right floated image" max-height="100" max-width="100" src="/images/UIkit.PNG">  
+<p>kdjfwioaejfawiedfjmskldjfwioejflksdjfwio
+<img class="ui right floated image" max-height="100" max-width="100" src="/images/UIkit.PNG"></p>.  
 
 
 ## I Choose you! Semantic-UI!  
