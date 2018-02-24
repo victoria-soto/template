@@ -28,7 +28,7 @@ Let's examine the following frameworks: Semantic-UI, Bootstrap, and UIkit--take 
 
 
 ### Semantic-UI  
-kdjfioawjeifjaiowefjioawjfiajeoifjioawejfkdjfkasdjfwioejifajid
+Semantic-UI allows you to create user (and developer) friendly websites quickly and easily--that is once you get over the initial syntax hurdle of course! It is also a free open source project with over 5000 commits on <a href="http://opntec.org/choosing-semantic-ui-over-bootstrap-for-the-open-event-front-end/">GitHub </a>. 
 <img class="ui large right floated rounded image" max-height="200" max-width="200" src="/images/SemanticUI.PNG">
 
 
