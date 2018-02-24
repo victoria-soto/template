@@ -34,7 +34,7 @@ Semantic-UI allows you to create user (and developer) friendly websites quickly 
 
 ### Bootstrap  
 kdjfwioaejfawiedfjmskldjfwioejflksdjfwio
-<img class="ui large left floated rounded image" max-height="100" max-width="100" src="/images/BootStrap.PNG">
+<img class="ui left floated rounded image" max-height="100" max-width="100" src="/images/BootStrap.PNG">
 
 
 ### UIkit  
