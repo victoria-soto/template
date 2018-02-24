@@ -28,19 +28,22 @@ Let's examine the following frameworks: Semantic-UI, Bootstrap, and UIkit--take 
 
 ### Semantic-UI  
 
-<img class="ui large left floated rounded image" max-height="200" max-width="200" src="/images/SemanticUI.PNG"><a href="https://semantic-ui.com/">Semantic-UI</a> allows you to create user (and developer) friendly websites quickly and easily--that is once you get over the initial syntax hurdle of course! It is also a free open source project with over 5000 commits on <a href="http://opntec.org/choosing-semantic-ui-over-bootstrap-for-the-open-event-front-end/">GitHub</a>.
+<img class="ui large left floated rounded image" max-height="200" max-width="200" src="/images/SemanticUI.PNG"><a href="https://semantic-ui.com/">Semantic-UI</a> allows you to create user (and developer) friendly websites quickly and easily--that is once you get over the initial syntax hurdle of course! It is also a free open source project with over 40,000 stars (users who follow their projects/repos) on <a href="http://opntec.org/choosing-semantic-ui-over-bootstrap-for-the-open-event-front-end/">GitHub</a>.
+
 
 
 
 ### Bootstrap  
 
-<img class="ui large right floated rounded image" max-height="100" max-width="100" src="/images/BootStrap.PNG">
-kdjfwioaejfawiedfjmskldjfwioejflksdjfwio
+<img class="ui large right floated rounded image" max-height="100" max-width="100" src="/images/BootStrap.PNG"><a href="https://themes.getbootstrap.com/">Bootstrap</a>
+
+
+
 
 
 ### UIkit  
 
-<img class="ui large left floated rounded image" max-height="100" max-width="100" src="/images/UIkit.PNG">  
+<img class="ui large left floated rounded image" max-height="100" max-width="100" src="/images/UIkit.PNG"><a href="https://getuikit.com/">UIkit</a>
 kdjfwioaejfawiedfjmskldjfwioejflksdjfwio
 
 
