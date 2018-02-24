@@ -20,7 +20,7 @@ There are different types of frameworks you can choose from when building a webs
 
 So which is it? Would you rather construct websites the easy way? Or the *hard* way?  
 
-<img class="ui centered image" src="/images/caveman-too-busy.jpg" style="max-width: 200px;" style="max-height: 250px;"/>
+<img class="ui centered image" src="/images/caveman-too-busy.jpg" style="max-width: 200px;" style="max-height: 250px;"/><br/>
 
 ## Pick Your Poison!  
 Let's examine the following frameworks: Semantic-UI, Bootstrap, and UIkit--take a look at example code and websites these frameworks can develop courtesy of <a href="https://dashbouquet.com/blog/web-development/top-5-most-popular-css-frameworks-that-you-should-pay-attention-to-in-2017#contacts">dashBoquet</a> who reviewed the top five CSS frameworks of 2017.
@@ -35,7 +35,7 @@ Let's examine the following frameworks: Semantic-UI, Bootstrap, and UIkit--take 
 
 ### UIkit  
 
-<img class="ui left floated rounded image" src="/images/UIkit.PNG" style="max-width: 275px;" style="max-height: 300px;"/>Although <a href="https://getuikit.com/">UIkit</a> isn't as popular as Semantic-UI or Boostrap it is currently on its third installment of its front-end framework and is supported by any browser. UIkit boasts nearly 12,000 stargazers in their <a href="https://github.com/uikit/uikit">GitHub</a> and has plenty of documentation to help new users get started. <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<img class="ui left floated rounded image" src="/images/UIkit.PNG" style="max-width: 275px;" style="max-height: 300px;"/>Although <a href="https://getuikit.com/">UIkit</a> isn't as popular as Semantic-UI or Boostrap it is currently on its third installment of its front-end framework and is supported by any browser. UIkit boasts nearly 12,000 stargazers in their <a href="https://github.com/uikit/uikit">GitHub</a> and has plenty of documentation to help new users get started. <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 ## I Choose you! Semantic-UI!  
 <img class="ui right floated image" src="/images/SemanticExample.PNG" style="max-width: 275px;" style="max-height: 370px;"/> As a beginner software engineer I found Semantic-UI to be very user friendly—it made jumping into website development a little less *scary*--just a little!!! Their website is also fairly easy to navigate as their documentation is well organized with clear visuals that accompany their code. Semantic-UI was clearly designed with the beginer software engineer in mind. With clear and easy to follow examples such as the one on the right, I was able to experiment with different website styles and formats. It was a fun UI framework to work with that I'll be able to use the techniques I learned and apply them to the next UI framework I'll be working with: <a href="https://reactjs.org/">React</a>! 
