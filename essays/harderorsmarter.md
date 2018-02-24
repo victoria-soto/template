@@ -27,19 +27,19 @@ Let's examine the following frameworks: Semantic-UI, Bootstrap, and UIkit--take 
 
 ### Semantic-UI  
 
-<img class="ui left floated rounded image" src="/images/SemanticUI.PNG" style="max-width: 200px;" style="max-height: 250px;"/><a href="https://semantic-ui.com/">Semantic-UI</a> allows you to create user (and developer) friendly websites quickly and easily--that is once you get over the initial syntax hurdle of course! It is also a free open source project with over 40,000 stars (users who follow their projects/repos) on <a href="http://opntec.org/choosing-semantic-ui-over-bootstrap-for-the-open-event-front-end/">GitHub</a>.<br/><br/><br/><br/>
+<img class="ui left floated rounded image" src="/images/SemanticUI.PNG" style="max-width: 200px;" style="max-height: 200px;"/><a href="https://semantic-ui.com/">Semantic-UI</a> allows you to create user (and developer) friendly websites quickly and easily--that is once you get over the initial syntax hurdle of course! It is also a free open source project with over 40,000 stars (users who follow their projects/repos) on <a href="http://opntec.org/choosing-semantic-ui-over-bootstrap-for-the-open-event-front-end/">GitHub</a>.<br/><br/><br/><br/>
 
 ### Bootstrap  
 
-<img class="ui right floated rounded image" src="/images/BootStrap.PNG" style="max-width: 275px;" style="max-height: 370px;"/><a href="https://themes.getbootstrap.com/">Bootstrap</a> is another UI framework that is very popular among software developers as they have over 122,000 stars in their <a href="https://github.com/twbs/bootstrap">GitHub</a>. They recently released the fourth version of their UI framework which included 10 different website themes. Bootstrap also allows developers to sell their own themes upon approval of their <a href="https://themes.zendesk.com/hc/en-us/articles/360000517772">seller's application</a>. <br/><br/><br/><br/><br/><br/><br/>
+<img class="ui right floated rounded image" src="/images/BootStrap.PNG" style="max-width: 275px;" style="max-height: 300px;"/><a href="https://themes.getbootstrap.com/">Bootstrap</a> is another UI framework that is very popular among software developers as they have over 122,000 stars in their <a href="https://github.com/twbs/bootstrap">GitHub</a>. They recently released the fourth version of their UI framework which included 10 different website themes. Bootstrap also allows developers to sell their own themes upon approval of their <a href="https://themes.zendesk.com/hc/en-us/articles/360000517772">seller's application</a>. <br/><br/><br/><br/><br/><br/><br/>
 
 ### UIkit  
 
-<img class="ui left floated rounded image" src="/images/UIkit.PNG" style="max-width: 275px;" style="max-height: 370px;"/>Although <a href="https://getuikit.com/">UIkit</a> isn't as popular as Semantic-UI or Boostrap it is currently on its third installment of its front-end framework and is supported by any browser. UIkit boasts nearly 12,000 stargazers in their <a href="https://github.com/uikit/uikit">GitHub</a> and has plenty of documentation to help new users get started. <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<img class="ui left floated rounded image" src="/images/UIkit.PNG" style="max-width: 275px;" style="max-height: 300px;"/>Although <a href="https://getuikit.com/">UIkit</a> isn't as popular as Semantic-UI or Boostrap it is currently on its third installment of its front-end framework and is supported by any browser. UIkit boasts nearly 12,000 stargazers in their <a href="https://github.com/uikit/uikit">GitHub</a> and has plenty of documentation to help new users get started. <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 ## I Choose you! Semantic-UI!  
 As a beginner software engineer I found Semantic-UI to be very user friendly—it made jumping into website development a little less *scary*--just a little!!! Their website is also fairly easy to navigate as their documentation is well organized with clear visuals that accompany their code. Semantic-UI was clearly designed with the beginer software engineer in mind.
-<img class="ui centered image" src="/images/SemanticExample.PNG"style="max-width: 275px;" style="max-height: 370px;"/>
+<img class="ui centered image" src="/images/SemanticExample.PNG" style="max-width: 275px;" style="max-height: 370px;"/>
 With clear and easy to follow examples such as the one above, I was able to experiment with different website styles and formats. It was a fun UI framework to work with that I'll be able to use the techniques I learned and apply them to the next UI framework I'll be learning: <a href="https://reactjs.org/">React</a>! 
 
 
