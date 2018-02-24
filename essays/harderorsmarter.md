@@ -31,7 +31,7 @@ Let's examine the following frameworks: Semantic-UI, Bootstrap, and UIkit--take 
 
 ### Bootstrap  
 
-<img class="ui right floated rounded image" max-height="100" max-width="100" src="/images/BootStrap.PNG"><a href="https://themes.getbootstrap.com/">Bootstrap</a><br/><br/><br/><br/>
+<img class="ui medium right floated rounded image" max-height="100" max-width="100" src="/images/BootStrap.PNG"><a href="https://themes.getbootstrap.com/">Bootstrap</a><br/><br/><br/><br/>
 
 ### UIkit  
 
