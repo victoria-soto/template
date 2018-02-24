@@ -27,7 +27,8 @@ Let's examine the following frameworks: Semantic-UI, Bootstrap, and UIkit--take 
 <img class="ui top aligned medium image" max-height="200" max-width="200" src="/images/SemanticUI.PNG">  
 
 ### Bootstrap
-<img class="ui middle aligned medium image" max-height="100" max-width="100" src="/images/BootStrap.PNG">   
+<img class="ui middle aligned medium image" max-height="100" max-width="100" src="/images/BootStrap.PNG">  
+
 ### UIkit
 <img class="ui bottom aligned medium image" max-height="100" max-width="100" src="/images/UIkit.PNG">   
 ## I Choose you! Semantic-UI!  
