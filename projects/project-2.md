@@ -17,4 +17,5 @@ summary: I developed and designed the hardware and software for a dormitory secu
 The Dormitory Security System was a semester long project which was intended to allow students to install their own inexpensive security system and protect their personal belongings. An HC-06 Bluetooth module and a PIR motion detection sensor was attached to an Arduino Uno that communicated with an android device when motion was detected to call and notify its owner. The android application was developed using MIT App Inventor.<br/> 
 
 For this project I designed and developed the hardware and software. From this experience I strengthened my hardware, software, and troubleshooting skills. This project is still a work in progress as I intend on adding a camera with live video feed and a Raspberry Pi with WiFi access so that the user can view their room. <br/>
+
 Source: <a href="https://github.com/victoria-soto/dormSecurity"><i class="large github icon"></i>dormSecurity</a>
