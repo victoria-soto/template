@@ -31,7 +31,7 @@ Let's examine the following frameworks: Semantic-UI, Bootstrap, and UIkit--take 
 
 ### Bootstrap  
 
-<img class="ui right floated rounded image" src="/images/BootStrap.PNG" style="max-width: 275px;" style="max-height: 370px;"/><a href="https://themes.getbootstrap.com/">Bootstrap</a> is another UI framework that is very popular among software developers as they have over 122,000 stars in their <a href="https://github.com/twbs/bootstrap">GitHub</a>. They recently released the fourth version of their UI framework which included 10 different website themes. Bootstrap also allows developers to sell their own themes upon approval of their <a href="https://themes.zendesk.com/hc/en-us/articles/360000517772">seller's application</a>. <br/><br/><br/><br/>
+<img class="ui right floated rounded image" src="/images/BootStrap.PNG" style="max-width: 275px;" style="max-height: 370px;"/><a href="https://themes.getbootstrap.com/">Bootstrap</a> is another UI framework that is very popular among software developers as they have over 122,000 stars in their <a href="https://github.com/twbs/bootstrap">GitHub</a>. They recently released the fourth version of their UI framework which included 10 different website themes. Bootstrap also allows developers to sell their own themes upon approval of their <a href="https://themes.zendesk.com/hc/en-us/articles/360000517772">seller's application</a>. <br/><br/><br/><br/><br/><br/><br/>
 
 ### UIkit  
 
