@@ -2,10 +2,12 @@
 layout: essay
 type: essay
 title: "Final Project Idea"
-date: 2017-10-19
+date: 2018-03-13
 labels:
   - Software Engineering
   - Meteor
+  - Group Project
+  - Application Ideas
 ---
 
 <h1>Project: Digital UH Community Watch</h1>
