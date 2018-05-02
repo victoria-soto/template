@@ -39,7 +39,7 @@ The <a href="https://sourcemaking.com/design_patterns/structural_patterns">struc
   
 
 #### Decorator Design Pattern  
-<img class="ui left floated rounded image" src="/images/decoratorDP.png" style="max-width: 200px;" style="max-height: 200px;"/>  
+<img class="ui left floated rounded image" src="/images/decoratorDP.jpg" style="max-width: 200px;" style="max-height: 200px;"/>  
 You can think of the <a href="https://sourcemaking.com/design_patterns/decorator">decorator design pattern</a> as functioning similar to that of applying decorations to a Christmas tree. For example, there are many decorations you can add to a tree: lights, ornaments, the star on top of the tree, snow, garland, etc. Each decoration had additional functionality—for example, controlling the on/off switch of the lights. 
   
   
