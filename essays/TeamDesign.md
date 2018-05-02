@@ -51,4 +51,7 @@ For my software engineering I course during the spring of 2018 my team members: 
 
 I’ll be honest—neither one of my team members nor I considered specific design when organizing the structure of our application. However, after looking back at the code, we did (unintentionally) incorporate some of the design patterns I discussed above. This could be due to the fact that we’ve been sort of hardwired to design in a certain way from the classes we’ve taken.
 
-The design patterns we’ve incorporated include the: decorator, interpreter, and state. For <a href="https://grubngo.github.io/">Grub ‘n’ Go</a>, the *decorator* maybe viewed as favored vendors a user could add to their profile or changes a vendor may make to their menu by adding or removing menu items.  
+The **design patterns** we’ve incorporated include the: decorator, interpreter, and state. For <a href="https://grubngo.github.io/">Grub ‘n’ Go</a>, the *decorator* maybe viewed as favored vendors a user could add to their profile or changes a vendor may make to their menu by adding or removing menu items. The *interpreter* and *state* designs were implemented throughout the entire application and occurred simultaneously. Essentially anytime there was a state change, input was received, interpreted, then the output was translated as a result. 
+
+For example,     
+ 
