@@ -30,19 +30,31 @@ There are three main software engineering design patterns you can choose from:
 ### Creational design patterns  
 <img class="ui left floated rounded image" src="/images/creationalDP.png" style="max-width: 200px;" style="max-height: 200px;"/>
 The <a href="https://sourcemaking.com/design_patterns/creational_patterns">creation design pattern</a> focuses on class instantiation or the creation of objects of the class type. This design method aims to reduce any unwanted design complexity by properly controlling the objects created. 
+  
+  
+  
 
 
 ### Structural design patterns  
 <img class="ui left floated rounded image" src="/images/structuralDP.png" style="max-width: 200px;" style="max-height: 200px;"/>
 Erhjekwarhjk eahrjehrjka aehrjwaker
 Jwaerhjkwa jwehrjkewhr 
-wjehrjekwhr  
+Wjehrjekwhr  
+  
+  
+  
+  
+  
 
 ### Behavioral design patterns  
 <img class="ui left floated rounded image" src="/images/BehavioralDP.png " style="max-width: 200px;" style="max-height: 200px;"/>
 Ahdjfhjwaehfu
 Ajdhfjahsdufiwa
-Fjahsdjfkh
+Fjahsdjfkh  
+  
+  
+  
+
 
 
 ## Team Web Application development 
