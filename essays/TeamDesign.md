@@ -73,6 +73,9 @@ Lastly there are <a href="https://sourcemaking.com/design_patterns/behavioral_pa
   
   
   
+  
+  
+  
 #### State Design Patterns  
 <img class="ui right floated rounded image" src="/images/StateDP.png " style="max-width: 200px;" style="max-height: 200px;"/>
 The <a href="https://sourcemaking.com/design_patterns/state">state design pattern</a> may be used to control the state of a function and the internal state changes allow certain actions to take place. For example, vending machines can have different states depending on whether money was deposited, inventory, whether change must be returned, etc.  
@@ -82,5 +85,10 @@ The <a href="https://sourcemaking.com/design_patterns/state">state design patter
   
 
 
+  
+  
+  
+  
+  
 ## Team Web Application Development 
 For my software engineering I course during the spring of 2018 my team members: [Brian Hoole](https://brianhoole.github.io), [Chaster Mateo](https://haychaster.github.io), [Yubi Peterson](https://notyubi.github.io) and myself, [Victoria Soto](https://victoria-soto.github.io) were tasked with developing an application that assists users at UH Manoa in locating various food options available to them on campus. We collectively agreed upon the name <a href="https://grubngo.github.io/">Grub ‘n’ Go</a>.
