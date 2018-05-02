@@ -50,6 +50,9 @@ You can think of the <a href="https://sourcemaking.com/design_patterns/decorator
   
   
   
+  
+  
+  
 #### Proxy Design Pattern  
 <img class="ui right floated rounded image" src="/images/ProxyDP.png" style="max-width: 200px;" style="max-height: 200px;"/>  
 The <a href="https://sourcemaking.com/design_patterns/proxy">proxy design pattern</a> creates a place holder for objects that require a lot of resources. For example, let’s say you want to purchase an item but you have all of your cash in your bank account. You can write out a check to take the place of money you have in your bank for the time being so that you may purchase the item.   
