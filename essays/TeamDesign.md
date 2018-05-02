@@ -32,10 +32,10 @@ There are three main software engineering design patterns you can choose from:
 The <a href="https://sourcemaking.com/design_patterns/structural_patterns">structural design pattern</a> aims to simplify the design process by understanding the relationships between entities. This design strategy can be further broken down into the following design patterns: decorator and proxy.<br />
 
 #### Decorator Design Pattern
-<img class="ui left floated rounded image" src="/images/decoratorDP.jpg" style="max-width: 200px;" style="max-height: 200px;"/>You can think of the <a href="https://sourcemaking.com/design_patterns/decorator">decorator design pattern</a> as functioning similar to that of applying decorations to a Christmas tree. For example, there are many decorations you can add to a tree: lights, ornaments, the star on top of the tree, snow, garland, etc. Each decoration had additional functionality—for example, controlling the on/off switch of the lights. <br /><br />
+<img class="ui left floated rounded image" src="/images/decoratorDP.jpg" style="max-width: 200px;" style="max-height: 200px;"/>You can think of the <a href="https://sourcemaking.com/design_patterns/decorator">decorator design pattern</a> as functioning similar to that of applying decorations to a Christmas tree. For example, there are many decorations you can add to a tree: lights, ornaments, the star on top of the tree, snow, garland, etc. Each decoration had additional functionality—for example, controlling the on/off switch of the lights. <br /><br /><br /><br />
 
 #### Proxy Design Pattern
-<img class="ui right floated rounded image" src="/images/ProxyDP.png" style="max-width: 200px;" style="max-height: 200px;"/> The <a href="https://sourcemaking.com/design_patterns/proxy">proxy design pattern</a> creates a place holder for objects that require a lot of resources. For example, let’s say you want to purchase an item but you have all of your cash in your bank account. You can write out a check to take the place of money you have in your bank for the time being so that you may purchase the item.<br /><br /><br />
+<img class="ui right floated rounded image" src="/images/ProxyDP.png" style="max-width: 200px;" style="max-height: 200px;"/> The <a href="https://sourcemaking.com/design_patterns/proxy">proxy design pattern</a> creates a place holder for objects that require a lot of resources. For example, let’s say you want to purchase an item but you have all of your cash in your bank account. You can write out a check to take the place of money you have in your bank for the time being so that you may purchase the item.<br />
 
 ### Behavioral Design Patterns
 Lastly there are <a href="https://sourcemaking.com/design_patterns/behavioral_patterns">behavioral design patterns</a> which identifies and utilizes communication patterns between objects. There are two types of behavioral design patterns you can consider: interpreter or state.<br />
@@ -48,3 +48,7 @@ Lastly there are <a href="https://sourcemaking.com/design_patterns/behavioral_pa
 
 ## Grub ‘N’ Go Design Pattern Implementation
 For my software engineering I course during the spring of 2018 my team members: [Brian Hoole](https://brianhoole.github.io), [Chaster Mateo](https://haychaster.github.io), [Yubi Peterson](https://notyubi.github.io) and myself, [Victoria Soto](https://victoria-soto.github.io) were tasked with developing an application that assists users at UH Manoa in locating various food options available to them on campus. We collectively agreed upon the name <a href="https://grubngo.github.io/">Grub ‘n’ Go</a>.<br />
+
+I’ll be honest—neither one of my team members nor I considered specific design when organizing the structure of our application. However, after looking back at the code, we did (unintentionally) incorporate some of the design patterns I discussed above. This could be due to the fact that we’ve been sort of hardwired to design in a certain way from the classes we’ve taken.
+
+The design patterns we’ve incorporated include:
