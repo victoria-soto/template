@@ -34,22 +34,21 @@ The <a href="https://sourcemaking.com/design_patterns/creational_patterns">creat
 The <a href="https://sourcemaking.com/design_patterns/structural_patterns">structural design pattern</a> aims to simplify the design process by understanding the relationships between entities. This design strategy can be further broken down into the Decorator design pattern and the Proxy design pattern.  
 #### Decorator design pattern  
 <img class="ui left floated rounded image" src="/images/structuralDP.png" style="max-width: 200px;" style="max-height: 200px;"/>  
-You can think of the <a href="https://sourcemaking.com/design_patterns/decorator”>decorator design pattern</a>  
+You can think of the <a href="https://sourcemaking.com/design_patterns/decorator">decorator design pattern</a>   
   
 #### Proxy design pattern  
-<img class="ui right floated rounded image" src="/images/proxyDP.png" style="max-width: 200px;" style="max-height: 200px;"/>  
-The <a href="https://sourcemaking.com/design_patterns/proxy”>proxy design pattern</a>  
-  
-  
+<img class="ui right floated rounded image" src="/images/ProxyDP.png" style="max-width: 200px;" style="max-height: 200px;"/>  
+The <a href="https://sourcemaking.com/design_patterns/proxy">proxy design pattern</a>    
 
 ### Behavioral design patterns  
-Lastly there are <a href=" https://sourcemaking.com/design_patterns/behavioral_patterns”>behavioral design patterns</a>which identifies and utilizes communication patterns between objects. There are two behavioral design patterns you can consider: interpreter or state.  
+Lastly there are <a href="https://sourcemaking.com/design_patterns/behavioral_patterns">behavioral design patterns</a> which identifies and utilizes communication patterns between objects. There are two behavioral design patterns you can consider: interpreter or state.  
+  
 #### Interpreter design patterns  
-<img class="ui left floated rounded image" src="/images/BehavioralDP.png " style="max-width: 200px;" style="max-height: 200px;"/>The <a href=”https://sourcemaking.com/design_patterns/interpreter”>interpreter design pattern</a>   
+<img class="ui left floated rounded image" src="/images/BehavioralDP.png " style="max-width: 200px;" style="max-height: 200px;"/>The <a href="https://sourcemaking.com/design_patterns/interpreter">interpreter design pattern</a>   
 
 #### State design patterns  
 <img class="ui right floated rounded image" src="/images/StateDP.png " style="max-width: 200px;" style="max-height: 200px;"/>
-The <a href=”https://sourcemaking.com/design_patterns/state”>state design pattern</a>
+The <a href="https://sourcemaking.com/design_patterns/state">state design pattern</a>
 
 
 ## Team Web Application development 
