@@ -3,13 +3,16 @@ layout: essay
 type: essay
 title: Application Design on the Mind!
 # All dates must be YYYY-MM-DD format!
-date: 2018-05-01
+date: 2018-05-02
 labels:
   - Computer Science
+  - Software Engineering
+  - Design Patterns
   - React
   - Meteor
-  - Software Web App Design
-  - Software Engineering
+  - Software Web App Development
+  - Group Collaboration
+  - Grub n' Go
 ---
 
 
@@ -25,17 +28,23 @@ There are three main software engineering design patterns you can choose from:
 3.	Behavioral
 
 ### Creational design patterns
-The <a href="https://sourcemaking.com/design_patterns/creational_patterns">creation design pattern</a>focuses on class instantiation or the creation of objects of the class type. This design method aims to reduce any unwanted design complexity by properly controlling the objects created. 
+The <a href="https://sourcemaking.com/design_patterns/creational_patterns">creation design pattern</a> focuses on class instantiation or the creation of objects of the class type. This design method aims to reduce any unwanted design complexity by properly controlling the objects created. 
 
-<img class="ui left floated rounded image" src="/images/creationalDP.PNG" style="max-width: 200px;" style="max-height: 200px;"/>
+<img class="ui left floated rounded image" src="/images/creationalDP.png" style="max-width: 200px;" style="max-height: 200px;"/>  
 
 ### Structural design patterns
 
+<img class="ui left floated rounded image" src="/images/structuralDP.png" style="max-width: 200px;" style="max-height: 200px;"/>  
 
-### Behavioral design patterns
+### Behavioral design patterns  
 
-## Team Web Application development
-For the Spring semester of 2018 my team members: [Brian Hoole](https://brianhoole.github.io), [Chaster Mateo](https://haychaster.github.io), [Yubi Peterson](https://notyubi.github.io) and myself, [Victoria Soto](https://victoria-soto.github.io)were tasked with developing an application that assists users at UH Manoa in locating various food options available to them on campus. 
+<img class="ui left floated rounded image" src="/images/BehavorialDP.png" style="max-width: 200px;" style="max-height: 200px;"/>  
+
+## Team Web Application development  
+For my software engineering I course during the spring of 2018 my team members: [Brian Hoole](https://brianhoole.github.io), [Chaster Mateo](https://haychaster.github.io), [Yubi Peterson](https://notyubi.github.io) and myself, [Victoria Soto](https://victoria-soto.github.io)were tasked with developing an application that assists users at UH Manoa in locating various food options available to them on campus. 
+
+Before considering which design patterns to implement, we needed to name our application and collectively agreed upon the name <a href="https://grubngo.github.io/">Grub ‘n’ Go</a>.
+
 
 
 
