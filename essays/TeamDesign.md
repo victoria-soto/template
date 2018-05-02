@@ -26,29 +26,56 @@ There are three main software engineering design patterns you can choose from:
 3.	Behavioral
 
 ### Creational Design Patterns  
-<img class="ui left floated rounded image" src="/images/creationalDP.png" style="max-width: 200px;" style="max-height: 200px;"/>
+<img class="ui right floated rounded image" src="/images/creationalDP.png" style="max-width: 200px;" style="max-height: 200px;"/>
 The <a href="https://sourcemaking.com/design_patterns/creational_patterns">creation design pattern</a> focuses on class instantiation or the creation of objects of the class type. This design method aims to reduce any unwanted design complexity by properly controlling the objects created.  
+  
+  
+  
 
 ### Structural Design Patterns  
-The <a href="https://sourcemaking.com/design_patterns/structural_patterns">structural design pattern</a> aims to simplify the design process by understanding the relationships between entities. This design strategy can be further broken down into the Decorator design pattern and the Proxy design pattern.  
+The <a href="https://sourcemaking.com/design_patterns/structural_patterns">structural design pattern</a> aims to simplify the design process by understanding the relationships between entities. This design strategy can be further broken down into the following design patterns: decorator and proxy.  
+  
+  
+  
 
 #### Decorator Design Pattern  
 <img class="ui left floated rounded image" src="/images/structuralDP.png" style="max-width: 200px;" style="max-height: 200px;"/>  
-You can think of the <a href="https://sourcemaking.com/design_patterns/decorator">decorator design pattern</a>   
+You can think of the <a href="https://sourcemaking.com/design_patterns/decorator">decorator design pattern</a>  
+  
+  
+  
+  
+     
   
 #### Proxy Design Pattern  
 <img class="ui right floated rounded image" src="/images/ProxyDP.png" style="max-width: 200px;" style="max-height: 200px;"/>  
-The <a href="https://sourcemaking.com/design_patterns/proxy">proxy design pattern</a>    
+The <a href="https://sourcemaking.com/design_patterns/proxy">proxy design pattern</a>  
+  
+  
+  
+    
 
 ### Behavioral Design Patterns  
-Lastly there are <a href="https://sourcemaking.com/design_patterns/behavioral_patterns">behavioral design patterns</a> which identifies and utilizes communication patterns between objects. There are two behavioral design patterns you can consider: interpreter or state.  
+Lastly there are <a href="https://sourcemaking.com/design_patterns/behavioral_patterns">behavioral design patterns</a> which identifies and utilizes communication patterns between objects. There are two types of behavioral design patterns you can consider: interpreter or state.  
+  
+  
+  
   
 #### Interpreter Design Patterns  
-<img class="ui left floated rounded image" src="/images/BehavioralDP.png " style="max-width: 200px;" style="max-height: 200px;"/>The <a href="https://sourcemaking.com/design_patterns/interpreter">interpreter design pattern</a>   
-
+<img class="ui left floated rounded image" src="/images/BehavioralDP.png " style="max-width: 200px;" style="max-height: 200px;"/>The <a href="https://sourcemaking.com/design_patterns/interpreter">interpreter design pattern</a>  
+  
+  
+  
+  
+  
 #### State Design Patterns  
 <img class="ui right floated rounded image" src="/images/StateDP.png " style="max-width: 200px;" style="max-height: 200px;"/>
-The <a href="https://sourcemaking.com/design_patterns/state">state design pattern</a>
+The <a href="https://sourcemaking.com/design_patterns/state">state design pattern</a>  
+  
+  
+  
+  
+
 
 ## Team Web Application Development 
 For my software engineering I course during the spring of 2018 my team members: [Brian Hoole](https://brianhoole.github.io), [Chaster Mateo](https://haychaster.github.io), [Yubi Peterson](https://notyubi.github.io) and myself, [Victoria Soto](https://victoria-soto.github.io) were tasked with developing an application that assists users at UH Manoa in locating various food options available to them on campus. 
