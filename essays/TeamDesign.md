@@ -83,6 +83,4 @@ The <a href="https://sourcemaking.com/design_patterns/state">state design patter
 
 
 ## Team Web Application Development 
-For my software engineering I course during the spring of 2018 my team members: [Brian Hoole](https://brianhoole.github.io), [Chaster Mateo](https://haychaster.github.io), [Yubi Peterson](https://notyubi.github.io) and myself, [Victoria Soto](https://victoria-soto.github.io) were tasked with developing an application that assists users at UH Manoa in locating various food options available to them on campus. 
-
-Before considering which design patterns to implement, we needed to name our application and collectively agreed upon the name <a href="https://grubngo.github.io/">Grub ‘n’ Go</a>.
+For my software engineering I course during the spring of 2018 my team members: [Brian Hoole](https://brianhoole.github.io), [Chaster Mateo](https://haychaster.github.io), [Yubi Peterson](https://notyubi.github.io) and myself, [Victoria Soto](https://victoria-soto.github.io) were tasked with developing an application that assists users at UH Manoa in locating various food options available to them on campus. We collectively agreed upon the name <a href="https://grubngo.github.io/">Grub ‘n’ Go</a>.
