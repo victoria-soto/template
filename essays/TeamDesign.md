@@ -1,4 +1,4 @@
----
+--
 layout: essay
 type: essay
 title: Application Design on the Mind!
