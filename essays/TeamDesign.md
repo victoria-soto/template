@@ -53,6 +53,7 @@ I’ll be honest—neither one of my team members nor I considered specific desi
 
 The **design patterns** we’ve incorporated include the: decorator, interpreter, and state. For <a href="https://grubngo.github.io/">Grub ‘N’ Go</a>, the *decorator* maybe viewed as favored vendors a user could add to their profile or changes a vendor may make to their menu by adding or removing menu items. The *interpreter* and *state* designs were implemented throughout the entire application and occurred simultaneously. Essentially anytime there was a state change, input was received, interpreted, then the output was translated as a result. 
 
-For example, upon visiting <a href="https://grubngo.github.io/">Grub ‘N’ Go</a>      
+For example, upon visiting <a href="https://grubngo.github.io/">Grub ‘N’ Go</a> website you can choose to sign in or register—depending upon the option you choose, you’ll be directed to the appropriate web pages. In this case, the input is interpreted, will cause a state change, then the change of state will result in a translated/interpreted output. These patterns are seen throughout <a href="https://grubngo.github.io/">Grub ‘N’ Go</a> from logging in/out to adding favorite vendors, to modifying menu items. 
 
- 
+Although my team and I did not specifically seek out design patterns to implement, we incorporated the decorator, interpreter, and state design patterns out of habit from coding practices we’ve learned in our courses. :)
+
