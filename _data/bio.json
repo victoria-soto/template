@@ -72,7 +72,6 @@
       "studyType": "B.S.",
       "startDate": "2015-08-17",
       "endDate": "Present",
-      "gpa": "3.40",
       "courses": [
         "EE 160 Programming for Engineers",
         "ICS 212 Program Structure", 
@@ -90,12 +89,46 @@
         "EE 361L Digital Systems and Computer Design Lab",
         "EE 362 Discrete Math for Engineers",
         "ICS 311 Algorithms",
+        "BIOL 171 Introduction to Biology I",
+        "BIOL 172 Introduction to Biology II",
+        "BIOL 275 Cell and Molecular Biology",
+        "BIOL 350 Sex Diffs in the Life Cycle",
+        "BIOL 375 Genetics",
+        "BIOL 407 Molecular Cell Biology I",
+        "BIOL 408 Molecular Cell Biology II",
+        "BIOL 472 Biology of Cancer",
+        "PHYL 141 Human Anatomy & Physiology I",
+        "PHYL 141 Human Anatomy & Physiology II",
+        "CHEM 372 Bioorganic Chemistry",           
+      ]
+    },
+    
+    {
+      "institution": "University of the Pacific, Stockton, CA",
+      "area": "Bioengineering (Fall, 2015)",
+      "studyType": "B.S.",
+      "startDate": "2012-08-17",
+      "endDate": "2015-05-07",
+      "courses": [
+      "MATH 057 App Diff Equations I: ODES",
+      "ENGR 020 Engineering Mech I: Statics",
+      "ENGR 030 Engineering Ethics and Society",
+      "ENGR 045 Materials Science: Prop & Ms",
+      "ENGR 121 Mechanics of Materials",
+      "ENGR 120 Engineer Mech II: Dynamics",
+      "BENG 124 Biomechanics",
+      "ENGR 110 Instrument/Experimental Mthds",
+      "ECPE 071 Introduction to Digital Design",
+      "BENG 108 Engineering Physiology",
+      "BENG 103 Biomaterials",
+      "BIOL 128 Histology",
+      "BENG 195 Senior Project",        
       ]
     }
   ],
     "volunteer": [
     {
-       "organization": "Waikiki Health Friendly Neighbors",
+      "organization": "Waikiki Health Friendly Neighbors",
       "website": "http://waikikihc.org/patients/services/senior-assistance/",
       "position": "Volunteer for the elderly",
       "startDate": "2016-05-01",
