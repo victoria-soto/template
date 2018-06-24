@@ -6,7 +6,7 @@
     "email": "vjaramil@hawaii.edu",
     "phone": "",
     "website": "https://victoria-soto.github.io",
-    "summary": "I am a junior in the Computer Engineering B.S. program at the University of Hawaii at Manoa. I expect to graduate in the Fall of 2018 and will be actively seeking a position in software development.",
+    "summary": "I am a senior in the Computer Engineering B.S. program at the University of Hawaii at Manoa. I expect to graduate in the Fall of 2018 and will be actively seeking a position in software development.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -53,6 +53,10 @@
         "C++",
         "Java",
         "Javascript",
+        "CSS"
+        "HTML"
+        "React",
+        "Meteor",
       ]
     },
     {
@@ -60,7 +64,9 @@
       "level": "",
       "keywords": [
         "Windows",
+        "Unix",
         "Ubuntu",
+        "VirtualBox",
         "Git/GitHub",
       ]
     }
@@ -68,7 +74,7 @@
   "education": [
     {
       "institution": "University of Hawaii at Manoa, Honolulu, HI",
-      "area": "Computer Engineering (expected Fall, 2018)",
+      "area": "Computer Engineering (expected Spring, 2019)",
       "studyType": "B.S.",
       "startDate": "2015-08-17",
       "endDate": "Present",
