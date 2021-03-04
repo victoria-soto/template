@@ -3,7 +3,7 @@
     "name": "Victoria Jaramillo Soto",
     "label": "Student",
     "picture": "https://victoria-soto.github.io/images/29009451.png",
-    "email": "vjaramil@hawaii.edu",
+    "email": "v_jaramillo1@u.pacific.edu",
     "phone": "",
     "website": "https://victoria-soto.github.io",
     "summary": "I am a senior in the Computer Engineering B.S. program at the University of Hawaii at Manoa. I expect to graduate in the Fall of 2018 and will be actively seeking a position in software development.",
@@ -80,10 +80,10 @@
       "endDate": "Present",
       "courses": [
         "EE 160 Programming for Engineers",
-        "ICS 212 Program Structure", 
+        "ICS 212 Program Structure",
         "EE 205 Object Oriented Programming",
         "ICS 314 Software Engineering I",
-        "EE 211 Basic Circuit Analysis I", 
+        "EE 211 Basic Circuit Analysis I",
         "EE 213 Basic Circuit Analysis II",
         "EE 260 Introduction to Digital Design",
         "EE 296 Sophomore Project",
@@ -105,10 +105,10 @@
         "BIOL 472 Biology of Cancer",
         "PHYL 141 Human Anatomy & Physiology I",
         "PHYL 141 Human Anatomy & Physiology II",
-        "CHEM 372 Bioorganic Chemistry",           
+        "CHEM 372 Bioorganic Chemistry",
       ]
     },
-    
+
     {
       "institution": "University of the Pacific, Stockton, CA",
       "area": "Bioengineering (Fall, 2015)",
@@ -128,7 +128,7 @@
       "BENG 108 Engineering Physiology",
       "BENG 103 Biomaterials",
       "BIOL 128 Histology",
-      "BENG 195 Senior Project",        
+      "BENG 195 Senior Project",
       ]
     }
   ],
